@@ -1,1 +1,1 @@
-# EE283_HW2
+Source of files in BioinformaticsCourse.txt
